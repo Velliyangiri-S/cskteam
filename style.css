@@ -1,0 +1,29 @@
+body{
+    background-image:url("./pic.png") ;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: 1550px;
+
+
+
+    
+    background-position-y: -40px;
+
+
+    
+}
+th{
+    height: 30px;
+    width: 90px;
+    margin: auto;
+    border: 2px solid black;
+    padding: 10Px;
+    margin-top: 500px;
+    border-radius: 50px;
+   margin-top: 1000px;
+   color:red;
+}
+#tt{
+    margin-top: 600px;
+    margin-left: 1100px;
+}

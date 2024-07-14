@@ -1,0 +1,99 @@
+#tab1{
+    height: 300px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 25px;
+   
+    display: flex ;
+    
+    text-align: center;
+    
+    
+}
+#th1{
+    height: 100px;
+    width: 100px;
+    color:red;
+    font-size: 40px;
+    font-style: italic;
+    
+}
+
+#t{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+   
+    
+}#tt{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+ 
+}
+#ttt{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+ 
+}
+#tttt{
+    height: 100px;
+    width: 100px;
+   
+  
+}
+
+
+#tab{
+    height: 300px;
+    width: 200px;
+    margin-left: 450px;
+    margin-top: 10px;
+    margin-bottom: z
+   
+    text-align: center;
+    
+   
+}
+
+
+
+
+#tab2{
+    height: 300px;
+    width: 200px;
+  margin: auto;
+    margin-left: 50px;
+    margin-top: 25px;
+    display: flex;
+    
+}
+#box{
+    display: flex;
+    height: 895px;
+    width: 1300px;
+    background: rgba(0, 0,0, 0.5);
+    border-radius: 70px;
+    margin-left:70px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    margin-top: 90px;
+}  
+
+
+
+   
+
+
+body{
+    height: 100px;
+    width: 100px;
+    background-image: url(./1.png);
+    background-size:1550px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    margin-bottom: 800px;
+}
+
+
